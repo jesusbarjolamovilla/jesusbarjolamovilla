@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesusbarjolamovilla,I am Spanish
 - 👀 I’m interested in The programing,web development and video game development
-- 🌱 I’m currently learning Html,Css,Java script,C#,Python,Hacking and cyber security
+- 🌱 I’m currently learning Html,Css,Java script,C#,Python,Hacking and Cybersecurity
 - 💞️ I’m looking to collaborate on some project to have experience and help
 - 📫 How to reach me barjolamovillajesus@gmail.com
 
